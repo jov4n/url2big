@@ -1,0 +1,11 @@
+/home/alexei/Workspace/rust/url2big/target/debug/deps/unicode_segmentation-d732f40291d480a1.rmeta: /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/lib.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/grapheme.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/tables.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/word.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/sentence.rs
+
+/home/alexei/Workspace/rust/url2big/target/debug/deps/libunicode_segmentation-d732f40291d480a1.rlib: /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/lib.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/grapheme.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/tables.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/word.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/sentence.rs
+
+/home/alexei/Workspace/rust/url2big/target/debug/deps/unicode_segmentation-d732f40291d480a1.d: /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/lib.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/grapheme.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/tables.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/word.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/sentence.rs
+
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/lib.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/grapheme.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/tables.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/word.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/sentence.rs:

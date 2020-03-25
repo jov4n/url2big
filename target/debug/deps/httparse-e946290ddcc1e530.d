@@ -1,0 +1,12 @@
+/home/alexei/Workspace/rust/url2big/target/debug/deps/httparse-e946290ddcc1e530.rmeta: /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs
+
+/home/alexei/Workspace/rust/url2big/target/debug/deps/libhttparse-e946290ddcc1e530.rlib: /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs
+
+/home/alexei/Workspace/rust/url2big/target/debug/deps/httparse-e946290ddcc1e530.d: /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs
+
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs:

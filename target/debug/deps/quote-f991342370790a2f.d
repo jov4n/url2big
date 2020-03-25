@@ -1,0 +1,13 @@
+/home/alexei/Workspace/rust/url2big/target/debug/deps/quote-f991342370790a2f.rmeta: /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/lib.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ext.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/format.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ident_fragment.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/to_tokens.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/runtime.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/spanned.rs
+
+/home/alexei/Workspace/rust/url2big/target/debug/deps/libquote-f991342370790a2f.rlib: /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/lib.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ext.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/format.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ident_fragment.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/to_tokens.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/runtime.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/spanned.rs
+
+/home/alexei/Workspace/rust/url2big/target/debug/deps/quote-f991342370790a2f.d: /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/lib.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ext.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/format.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ident_fragment.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/to_tokens.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/runtime.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/spanned.rs
+
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/lib.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ext.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/format.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ident_fragment.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/to_tokens.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/runtime.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/spanned.rs:

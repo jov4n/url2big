@@ -1,0 +1,12 @@
+/home/alexei/Workspace/rust/url2big/target/debug/deps/actix_router-55d5aa7452a73ab1.rmeta: /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/lib.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/de.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/path.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/resource.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/router.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/url.rs
+
+/home/alexei/Workspace/rust/url2big/target/debug/deps/libactix_router-55d5aa7452a73ab1.rlib: /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/lib.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/de.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/path.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/resource.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/router.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/url.rs
+
+/home/alexei/Workspace/rust/url2big/target/debug/deps/actix_router-55d5aa7452a73ab1.d: /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/lib.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/de.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/path.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/resource.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/router.rs /home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/url.rs
+
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/lib.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/de.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/path.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/resource.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/router.rs:
+/home/alexei/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.4/src/url.rs:
